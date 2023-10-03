@@ -1,7 +1,9 @@
 import React from 'react'
+import Link from 'next/link';
 
-export default function Projects() {
-  return (
-    <h1>:3</h1>
-  )
+export default async function Projects() {
+
+    return (
+        <h2>Bruh</h2>
+    )
 }
