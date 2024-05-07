@@ -1,7 +1,10 @@
+import Tile from '@/components/Tile'
 import React from 'react'
 
 export default function Software() {
     return (
-        <h1>:3 Software</h1>
+        <>
+            <Tile title="BRuh"></Tile>
+        </>
     )
 }

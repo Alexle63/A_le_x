@@ -20,18 +20,18 @@ export default function RootLayout({
 
     return (
         <html>
-            <body className='text-slate-700 p-16 relative h-screen overflow-clip'>
+            <body className='text-slate-700 p-8 relative h-screen overflow-clip bg-stone-900'>
 
                 <div className='flex flex-col rounded-md h-full'>
                     <div className='flex grow'>
                         <MainMenu />
 
-                        <div className='w-full p-4 rounded-md'>
+                        <div className='bg-stone-800 text-orange-500 w-full rounded-r-md flex justify-center items-center h-full'>
                             {children}
                         </div>
                     </div>
-                    <Footer />
                 </div>
+                    <Footer />
             </body>
         </html>
     )
