@@ -1,7 +1,10 @@
+import NavLink from '@/components/NavLink'
 import './globals.css'
 import type { Metadata } from 'next'
 import { Raleway } from 'next/font/google'
 import Link from 'next/link'
+import NavBar from '@/components/NavBar'
+import Footer from '@/components/Footer'
 
 const rw = Raleway({ subsets: ['latin'] })
 
@@ -15,24 +18,21 @@ export default function RootLayout({
 }: {
     children: React.ReactNode
 }) {
+
+
+
     return (
-        <html lang="en">
-            <body className={rw.className}>
+        <html lang="en" className='overflow-y-hidden overflow-x-hidden'>
+            <body className={rw.className + ' bg-orange-50 flex flex-col h-screen'} >
 
-                <div className='relative w-screen h-screen'>
+                <NavBar />
 
-                    <nav className='absolute inset-1/4 p-8 flex gap-16 text-xl border border-black font-medium h-min'>
+                <div className='grow p-8'>
+                    {children}
+                </div>
 
-                        <Link className='text-3xl font-bold' href="/">a.Le.x</Link>
-                        <Link href="/projects">Projects</Link>
-                        <Link href="/Resumes">Resumes</Link>
-                        <Link href="/bio">Bio</Link>
-                        <Link href="/contact">Contact</Link>
-
-                    </nav>
-
-                    {/* {children} */}
-
+                <div className='bottom-4 z-0'>
+                    <Footer />
                 </div>
 
             </body>
