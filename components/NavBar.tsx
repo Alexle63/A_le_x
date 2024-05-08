@@ -25,7 +25,7 @@ export default function Nav({ handleClick }: any) {
 
     function Hamburglar(isOpen: boolean) {
         return isOpen ? <div className="absolute p-10 text-2xl h-screen w-screen p-auto bg-orange-200 md:hidden">
-            {(pages.map(page => <NavLink page={page} key={page.link} handleClick={handleClick} />))}
+            {(pages.map(page => <NavLink page={page} key={page.link}/>))}
         </div>
             : null
     }
@@ -37,7 +37,7 @@ export default function Nav({ handleClick }: any) {
                 <div className="flex gap-16">
                     <Link href="/" className="font-extrabold text-3xl no-underline">a_Le_x</Link>
 
-                    <div className="hidden md:flex gap-16"> {pages.map(page => <NavLink page={page} key={page.link} handleClick={() => { }} />)} </div>
+                    <div className="hidden md:flex gap-16"> {pages.map(page => <NavLink page={page} key={page.link} />)} </div>
                 </div>
 
 
