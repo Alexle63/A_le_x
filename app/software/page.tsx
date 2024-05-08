@@ -4,7 +4,7 @@ import React from 'react'
 export default function Software() {
     return (
         <>
-            <Tile title="BRuh"></Tile>
+            <Tile height={160} title="BRuh"></Tile>
         </>
     )
 }
