@@ -27,7 +27,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                             <SideBar />
                         </div>
 
-                        <div className='text-orange-300 bg-gradient-to-br from-stone-800 to-stone-950 m-1 p-4 rounded w-full justify-center overflow-y-auto'>
+                        <div className='text-orange-300 bg-gradient-to-br from-stone-800 to-stone-950 m-1 p-4 rounded w-full justify-center overflow-y-auto is-transitioned'>
                             {children}
                         </div>
                     </div>

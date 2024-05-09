@@ -6,7 +6,7 @@ export default function Software() {
     return (
         <Grid container spacing={2} columns={{ xs: 1, sm: 2, md: 3, lg: 4, xl:6 }}>
             <Grid item xs={1} className='flex'>
-                <Tile img='/static/pyrogram.jpg' title='Title Here' link='/software/test'/>
+                <Tile img='/static/pyrogram.jpg' title='Software 1' link='/software/test'/>
             </Grid>
         </Grid>
     )
