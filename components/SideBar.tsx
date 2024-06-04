@@ -8,9 +8,9 @@ export default function SideBar() {
 
     const pages = [
         { title: 'Software', link: '/software' },
-        { title: 'Textiles', link: '/textiles' },
-        { title: 'Clothing', link: '/clothing' },
-        { title: 'Woodwork', link: '/woodwork' },
+        // { title: 'Textiles', link: '/textiles' },
+        // { title: 'Clothing', link: '/clothing' },
+        // { title: 'Woodwork', link: '/woodwork' },
         { title: 'Skill Wall', link: '/skillwall' },
         { title: 'Biography', link: '/biography' },
     ]
