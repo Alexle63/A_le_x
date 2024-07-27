@@ -1,0 +1,21 @@
+{
+    "title": "ReUnix",
+    "img": "static/ReUnix.jpg",
+    "date": "Febuary 2024 - Present",
+    "desc": "A JS game emulating BASH terminal function, introducing players to navigation and basics.",
+    "authors": [
+        "Alex Le",
+        "Erebus Oh"
+    ],
+    "skills": [
+        "Game Design",
+        "HTML5",
+        "Tailwind CSS",
+        "Javascript",
+        "UI/UX",
+        "Unix Navigation"
+    ],
+    "links": [
+        "https://github.com/Alexle63/ReUnix"
+    ]
+}

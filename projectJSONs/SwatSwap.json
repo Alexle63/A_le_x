@@ -1,0 +1,42 @@
+{
+    "title": "Swat Swap",
+    "date": "Jan 2024 - Present",
+    "desc": "lorem ispum",
+    "authors": [
+        "Alex Le",
+        "Alina Vykliuk",
+        "Theron Mansilla",
+        "Ark Lu",
+        "Eli Young",
+        "Carson Lin",
+        "Jasmine Fan",
+        "Arys Aikyn",
+        "Ahmad Fayyaz",
+        "Theo Yochum",
+        "Aidan Corpus",
+        "Sasha Casada"
+    ],
+    "skills": [
+        "Project Management",
+        "DevOps",
+        "React.JS",
+        "Next.JS",
+        "Node.JS",
+        "Tailwind CSS",
+        "Materials UI",
+        "Figma",
+        "UI/UX",
+        "mySQL",
+        "Prisma ORM",
+        "REST APIs",
+        "Security/Authentication",
+        "Next.JS Authentication",
+        "Keycloak",
+        "User Sessions",
+        "JWT",
+        "Cookies"
+    ],
+    "links": [
+        "https://github.com/swat-sccs/swat-swap"
+    ]
+}

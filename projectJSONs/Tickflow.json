@@ -1,0 +1,26 @@
+{
+    "title": "Tickflow",
+    "img": "static/Tickflow.jpg",
+    "date": "November 2023 - December 2023",
+    "desc": "Lorem Ipsem",
+    "authors": [
+        "Thomas Makin",
+        "Leo Douhovnikoff",
+        "Alex Le"
+    ],
+    "skills": [
+        "React.JS",
+        "Next.JS",
+        "Node.JS",
+        "postgreSQL",
+        "Prisma ORM",
+        "Tailwind",
+        "Materials UI",
+        "REST APIs",
+        "Daemonization",
+        "Email Client"
+    ],
+    "links": [
+        "https://github.com/makinbacon21/tickflow"
+    ]
+}

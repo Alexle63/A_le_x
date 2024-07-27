@@ -7,11 +7,11 @@ import Image from "next/image";
 export default function SideBar() {
 
     const pages = [
-        { title: 'Software', link: '/software' },
+        { title: 'SWE Projects', link: '/projects' },
         // { title: 'Textiles', link: '/textiles' },
         // { title: 'Clothing', link: '/clothing' },
         // { title: 'Woodwork', link: '/woodwork' },
-        { title: 'Skill Wall', link: '/skillwall' },
+        { title: 'Skills', link: '/skills' },
         { title: 'Biography', link: '/biography' },
     ]
 

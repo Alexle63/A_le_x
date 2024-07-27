@@ -1,0 +1,20 @@
+{
+    "title": "A Bit of Adventure",
+    "img": "static/Bit.jpg",
+    "date": "Febuary 2024",
+    "desc": "A short, quirky Bitsy adventure game about computer architecture and function",
+    "authors": [
+        "Alex Le",
+        "Alina Vykliuk",
+        "Erebus Oh",
+        "Lily Davoren"
+    ],
+    "skills": [
+        "Project Management",
+        "Game Design",
+        "Bitsy"
+    ],
+    "links": [
+        "https://vykliuk.itch.io/a-bit-of-adventure"
+    ]
+}

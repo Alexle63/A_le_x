@@ -1,0 +1,21 @@
+{
+    "title": "What Goes into a Bowl of Rice",
+    "img": "static/Rice.jpg",
+    "date": "April 2024 - May 2024",
+    "desc": "A Twine documentary parallel story between the Asian-American experience and how rice is made.",
+    "authors": [
+        "Alex Le",
+        "Alina Vykliuk"
+    ],
+    "skills": [
+        "Twinery",
+        "Game Design",
+        "Story Writing",
+        "CSS",
+        "Javascript"
+    ],
+    "links": [
+        "https://github.com/Alexle63/ABowlofRice",
+        "https://vykliuk.itch.io/what-goes-into-a-bowl-of-rice"
+    ]
+}

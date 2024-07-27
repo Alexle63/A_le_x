@@ -34,6 +34,8 @@ export default function Biography() {
                         <p className='col-span-2'><b>B.A. Computer Science</b> | <i>Swarthmore College</i></p>
                         <h3 className='col-span-3'>Software</h3>
                         <p>2024 - Present </p>
+                        <p className='col-span-2'><b>Code v Code</b> | Machine Learning Trainer, <i>Outlier.ai</i></p>
+                        <p>2024 - Present </p>
                         <p className='col-span-2'><b>ReUnix</b> | Game Design, <i>Swarthmore College</i></p>
                         <p>2024 - Present </p>
                         <p className='col-span-2'><b>Swat Swap</b> | SCCS, <i>Swarthmore College</i></p>

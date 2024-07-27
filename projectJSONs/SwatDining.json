@@ -1,0 +1,30 @@
+{
+    "title": "Swarthmore Campus Dining Browser Extension",
+    "img": "static/SwatDining.jpg",
+    "date": "Febuary 2021 - May 2024",
+    "desc": "lorem ipsum",
+    "authors": [
+        "Alex Le",
+        "Tony Cao",
+        "Ark Lu"
+    ],
+    "skills": [
+        "Project Management",
+        "DevOps",
+        "HTML5",
+        "SASS/SCSS/CSS",
+        "Node.JS",
+        "Javscript",
+        "jQuery",
+        "REST APIs",
+        "Production Optimization",
+        "Chrome Development",
+        "W3C Accessibility"
+    ],
+    "links": [
+        "https://github.com/swat-sccs/diningAPI",
+        "https://github.com/swat-sccs/sharples-chrome-extension",
+        "https://chromewebstore.google.com/detail/swat-dining/hljemhgbbhjcmclhbdlalcoljlmjidll",
+        "https://dining.sccs.swarthmore.edu/api"
+    ]
+}
