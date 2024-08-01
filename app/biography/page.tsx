@@ -4,7 +4,7 @@ import React from 'react'
 
 export default function Biography() {
     return (
-        <div className='flex flex-col h-full w-full p-4 md:p-20 space-y-4 xl:space-y-0 xl:flex-row h-full'>
+        <div className='flex flex-col h-full w-full p-4 space-y-4 xl:space-y-0 xl:flex-row'>
 
             <div className='flex flex-col m-auto justify-center h-full xl:mr-16'>
                 <img src="static\Headshot.JPG" className='xl:hidden w-96 gradbg' />
@@ -17,7 +17,7 @@ export default function Biography() {
 
             <div className='flex flex-col w-full justify-evenly h-full xl:overflow-y-auto space-y-4'>
                 <div>
-                    <h1>About the Developer</h1>
+                    <h2>About the Developer</h2>
                     <p>
                         Hi! I'm Alex Le from San Jose, California. I achieved my Bachelor's degree in Computer Science with a minor in Mathematics at Swarthmore College (Swarthmore, PA) in 2024 and plan to attend graduate school for my Master's in Software Engineering.
                         <br /><br />
@@ -27,7 +27,7 @@ export default function Biography() {
                     </p>
                 </div>
                 <div className='flex flex-col text-nowrap'>
-                    <h1>CV</h1>
+                    <h2>CV</h2>
                     <div className='grid grid-cols-3 gap-x-8'>
                         <h3 className='col-span-3'>Education</h3>
                         <p>2020 - 2024 </p>

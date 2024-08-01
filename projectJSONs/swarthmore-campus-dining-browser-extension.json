@@ -1,6 +1,10 @@
 {
     "title": "Swarthmore Campus Dining Browser Extension",
-    "img": "static/SwatDining.jpg",
+    "linkTitle": "swarthmore-campus-dining-browser-extension",
+    "img": "/static/projects/dining.jpg",
+    "pageImgs": [
+        "/static/projects/dining.jpg"
+    ],
     "date": "Febuary 2021 - May 2024",
     "desc": "lorem ipsum",
     "authors": [

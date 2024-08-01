@@ -1,5 +1,10 @@
 {
     "title": "Swat Swap",
+    "linkTitle": "swat-swap",
+    "img": "/static/projects/swatswap.jpg",
+    "pageImgs": [
+        "/static/projects/swatswap.jpg"
+    ],
     "date": "Jan 2024 - Present",
     "desc": "lorem ispum",
     "authors": [

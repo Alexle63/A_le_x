@@ -1,6 +1,10 @@
 {
     "title": "ReUnix",
-    "img": "static/ReUnix.jpg",
+    "linkTitle": "reunix",
+    "img": "/static/projects/ReUnix.jpg",
+    "pageImgs": [
+        "/static/projects/ReUnix.jpg"
+    ],
     "date": "Febuary 2024 - Present",
     "desc": "A JS game emulating BASH terminal function, introducing players to navigation and basics.",
     "authors": [

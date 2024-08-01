@@ -1,6 +1,10 @@
 {
     "title": "What Goes into a Bowl of Rice",
-    "img": "static/Rice.jpg",
+    "linkTitle": "what-goes-into-a-bowl-of-rice",
+    "img": "/static/projects/rice.jpg",
+    "pageImgs": [
+        "/static/projects/rice.jpg"
+    ],
     "date": "April 2024 - May 2024",
     "desc": "A Twine documentary parallel story between the Asian-American experience and how rice is made.",
     "authors": [

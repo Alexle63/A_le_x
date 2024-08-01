@@ -1,6 +1,10 @@
 {
     "title": "Tickflow",
-    "img": "static/Tickflow.jpg",
+    "linkTitle": "tickflow",
+    "img": "/static/projects/tickflow.jpg",
+    "pageImgs": [
+        "/static/projects/tickflow.jpg"
+    ],
     "date": "November 2023 - December 2023",
     "desc": "Lorem Ipsem",
     "authors": [

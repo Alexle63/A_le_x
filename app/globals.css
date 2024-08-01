@@ -17,6 +17,13 @@
     @apply to-amber-300;
 }
 
+.linkhover {
+    @apply transition;
+    @apply duration-300;
+    @apply hover:text-amber-200;
+    @apply hover:cursor-pointer;
+}
+
 a {
     @apply hover:text-amber-200;
     @apply transition;
@@ -25,13 +32,12 @@ a {
 
 h1 {
     @apply font-bold;
-    @apply text-3xl;
-    @apply h-12;
+    @apply text-5xl;
 }
 
 h2 {
     @apply font-semibold;
-    @apply text-2xl;
+    @apply text-3xl;
 }
 
 h3 {

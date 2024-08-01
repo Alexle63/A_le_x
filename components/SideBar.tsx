@@ -20,7 +20,7 @@ export default function SideBar() {
         <div>
 
             <div className=" p-2 pb-4 bg-stone-900 rounded">
-                <Link href="/" className="text-3xl flex flex-col font-black items-center bg-stone-900 rounded p-4 pb-0 bg-gradient-to-br from-orange-900 to-amber-400 to-75% inline-block text-transparent bg-clip-text">
+                <Link href="/" className="text-3xl flex flex-col font-black items-center bg-stone-900 rounded p-4 pb-0 bg-gradient-to-br from-orange-900 to-amber-400 to-75%  text-transparent bg-clip-text">
                     <Image src="/static/Pyrogram.jpg" alt="Pyrogram" width={160} height={160} className="rounded-full" />
                     a_Le_x
                 </Link>

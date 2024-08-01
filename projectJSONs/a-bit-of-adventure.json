@@ -1,6 +1,10 @@
 {
     "title": "A Bit of Adventure",
-    "img": "static/Bit.jpg",
+    "linkTitle": "a-bit-of-adventure",
+    "img": "/static/projects/bit.jpg",
+    "pageImgs": [
+        "/static/projects/bit.jpg"
+    ],
     "date": "Febuary 2024",
     "desc": "A short, quirky Bitsy adventure game about computer architecture and function",
     "authors": [
